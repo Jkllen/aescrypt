@@ -24,12 +24,12 @@ The process involves multiple rounds of substitutions, permutations, and mathema
 ---
 
 ## Features
- AES Encryption (symmetric key algorithm)  
- Automatic key and IV generation for every encryption session  
- Save encrypted text, key, and IV files in chosen directory  
- Decrypts only with matching key and IV  
- User-friendly GUI made with **WPF (C#)**  
- Status messages and file tracking  
+- AES Encryption (symmetric key algorithm)  
+- Automatic key and IV generation for every encryption session  
+- Save encrypted text, key, and IV files in chosen directory  
+- Decrypts only with matching key and IV  
+- User-friendly GUI made with **WPF (C#)**  
+- Status messages and file tracking  
 
 ---
 
@@ -44,13 +44,10 @@ The process involves multiple rounds of substitutions, permutations, and mathema
 
 ## How to Run
 **Steps:** 
-   git clone https://github.com/Jkllen/aescrypt
-   
-   cd aescrypt 
-
-   dotnet build
-
-   dotnet run
+- git clone https://github.com/Jkllen/aescrypt
+- cd aescrypt 
+- dotnet build
+- dotnet run
 
 ---
 
