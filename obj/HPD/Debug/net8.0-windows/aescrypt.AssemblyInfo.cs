@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aescrypt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5ba6afc8dfaca151d6b0a6189c23381d53fbf88")]
 [assembly: System.Reflection.AssemblyProductAttribute("aescrypt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aescrypt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

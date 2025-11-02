@@ -17,3 +17,4 @@ C:\Users\Augustine\Documents\VSCode Projects\aescrypt\obj\HPD\Debug\net8.0-windo
 C:\Users\Augustine\Documents\VSCode Projects\aescrypt\obj\HPD\Debug\net8.0-windows\aescrypt.pdb
 C:\Users\Augustine\Documents\VSCode Projects\aescrypt\obj\HPD\Debug\net8.0-windows\aescrypt.genruntimeconfig.cache
 C:\Users\Augustine\Documents\VSCode Projects\aescrypt\obj\HPD\Debug\net8.0-windows\ref\aescrypt.dll
+C:\Users\Augustine\Documents\VSCode Projects\aescrypt\obj\HPD\Debug\net8.0-windows\aescrypt.sourcelink.json
