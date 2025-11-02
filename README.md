@@ -43,12 +43,13 @@ The process involves multiple rounds of substitutions, permutations, and mathema
 ---
 
 ## How to Run
-**Steps:** 
-- git clone https://github.com/Jkllen/aescrypt
-- cd aescrypt 
-- dotnet build
-- dotnet run
-
+**Steps:**
+ ```bash
+ git clone https://github.com/Jkllen/aescrypt
+ cd aescrypt 
+ dotnet build
+ dotnet run
+ ```
 ---
 
 ## AES performs the following main steps:
@@ -63,3 +64,17 @@ The process involves multiple rounds of substitutions, permutations, and mathema
 
 These steps are repeated for 10, 12, or 14 rounds depending on the key size.
 
+---
+
+## Setup Instructions
+
+### 1. Install .NET SDK
+You need the **.NET 6 SDK or later** to compile and run the project.
+
+This project uses .NET 8.0 SDK 8.0.415
+
+- Download from: [https://dotnet.microsoft.com/en-us/download/dotnet/8.0]
+- Choose **.NET SDK** (not just Runtime)
+- After installation, verify with:
+  ```bash
+  dotnet --version
